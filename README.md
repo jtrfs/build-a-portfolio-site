@@ -13,7 +13,7 @@ For this project, you'll be building a **portfolio website**. You will be provid
 
 4. Take the time to personalize your portfolio with custom colors, additional content and your own images.
 
-5. Validate your HTML and CSS against the **W3C's Validators**.<br>:point_right: Note: the validators consider the following errors, whereas Udacity accepts these errors as acceptable:
+5. Validate your [HTML](https://validator.w3.org/#validate_by_input) and [CSS](https://jigsaw.w3.org/css-validator/#validate_by_input) against the **W3C's Validators**.<br>:point_right: Note: the validators consider the following errors, whereas Udacity accepts these errors as acceptable:
 
     - **HTML5**: Bad value X-UA-Compatible for attribute http-equiv on element meta when using the X-UA-Compatible meta tag.
     - **CSS3**: Property [some property here] is an unknown vendor extension when using vendor prefixed properties (like -moz-box-sizing).
