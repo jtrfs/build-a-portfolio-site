@@ -6,29 +6,22 @@ body {
 nav {
 	border: 1px solid #343a40;
 	background: #fff;
-	box-shadow: 3px 4px 10px #333;
-}
+	box-shadow: 3px 4px 10px #333; }
 
 #my-logo {
-	width: 15vw;
-}
+	width: 15vw; }
 
 #my-name {
 	font-family: 'Bungee';
 	font-size: 5vw;
-	color: #343a40;
-}
+	color: #343a40; }
 
 #my-position {
 	font-size: 2vw;
 	font-family: 'Bungee Hairline';
-	color: #fff;
-}
+	color: #fff; }
 
-#showcase-photo {
-	position: relative;
-}
-
+#showcase-photo { position: relative; }
 
 #showcase-photo::after {
 	position: absolute;
@@ -41,53 +34,24 @@ nav {
 	left: 0;
 	width: 100%;
 	text-align: center;
-	text-shadow: 5px 5px 10px #000;
-}
+	text-shadow: 5px 5px 10px #000; }
 
-#showcase-photo:hover::after {
-	color: #dc3545;	
-}
+#showcase-photo:hover::after { color: #dc3545; }
 
-.project {
-	margin-bottom: 30px;
-}
+.project { margin-bottom: 30px; }
 
-#featured-work-section {
-	position: relative;
-}
+#featured-work-section { position: relative; }
 
 #featured-work-title {
 	position: -webkit-sticky;
 	position: sticky;
 	top: 0px;
-	z-index: 5;
-}
+	z-index: 5; }
 
-img {
-	opacity: 1;
-}
+p {	word-break: break-all; }
 
-p {
-	word-break: break-all;
-}
-
-.card {
-	box-shadow: 3px 4px 10px #333;
-}
+.card { box-shadow: 3px 4px 10px #333; }
 
 .project-image {
 	width: 100%;
-	height: auto;
-}
-
-#project-mockup {
-
-}
-
-#project-animal-card {
-
-}
-
-#project-pixel-art {
-
-}
+	height: auto; }
