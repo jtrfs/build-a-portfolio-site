@@ -5,7 +5,7 @@ For this project, you'll be building a **portfolio website**. You will be provid
 
 ## Instructions:
 
-1. Download the design mockup file from the Downloadables section (in the lower right hand corner of your screen, just below this text) and review it.
+1. Download the design mockup file from the Downloadables section and review it.
 
 2. Identify the various boxes you will need to build in order to recreate this design.
 
