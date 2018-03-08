@@ -19,7 +19,10 @@ For this project, you'll be building a **portfolio website**. You will be provid
     - **CSS3**: Property [some property here] is an unknown vendor extension when using vendor prefixed properties (like -moz-box-sizing).
 
 *****
-:small_orange_diamond: [View Online](coming soon)
+
+The site has been launched on March 8, 2018. I hope it will abound with more of my projects 😇.
+
+:small_orange_diamond: [View Online](https://jtrfs.github.io/Build-a-Portfolio-Site/)
 ******
 
 :small_blue_diamond: [Udacity Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/)
