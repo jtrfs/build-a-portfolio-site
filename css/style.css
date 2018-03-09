@@ -31,7 +31,6 @@ nav {
 	position: absolute;
 	content: "Happy Coding!";
 	font-family: 'Bungee';
-	transform: rotate(-5deg);
 	font-size: 8vw;
 	color: white;
 	font-weight: 900;
@@ -40,7 +39,6 @@ nav {
 	text-align: center;
 	text-shadow: 5px 5px 10px #000; }
 
-#showcase-photo:hover::after { color: #dc3545; }
 
 /* SECTION WITH INDIVIDUAL PROJECTS */
 
