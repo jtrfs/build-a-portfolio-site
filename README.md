@@ -22,7 +22,7 @@ For this project, you'll be building a **portfolio website**. You will be provid
 
 The site has been launched on March 8, 2018. I hope it will abound with more of my projects 😇.
 
-:small_orange_diamond: [View Online](https://jtrfs.github.io/Build-a-Portfolio-Site/)
+:small_orange_diamond: [View Online](https://jtrfs.github.io/build-a-portfolio-site/)
 ******
 
 :small_blue_diamond: [Udacity Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/)
