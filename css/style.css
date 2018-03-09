@@ -3,6 +3,8 @@ body {
 	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='199' viewBox='0 0 100 199'%3E%3Cg fill='%23343a40' fill-opacity='0.58'%3E%3Cpath d='M0 199V0h1v1.99L100 199h-1.12L1 4.22V199H0zM100 2h-.12l-1-2H100v2z'%3E%3C/path%3E%3C/g%3E%3C/svg%3E");
 }
 
+/* HEADER */
+
 nav {
 	border: 1px solid #343a40;
 	background: #fff;
@@ -21,6 +23,8 @@ nav {
 	font-family: 'Bungee Hairline';
 	color: #fff; }
 
+/* SECTION WITH PHOTO */
+
 #showcase-photo { position: relative; }
 
 #showcase-photo::after {
@@ -37,6 +41,8 @@ nav {
 	text-shadow: 5px 5px 10px #000; }
 
 #showcase-photo:hover::after { color: #dc3545; }
+
+/* SECTION WITH INDIVIDUAL PROJECTS */
 
 .project { margin-bottom: 30px; }
 
