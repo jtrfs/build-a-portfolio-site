@@ -29,7 +29,7 @@ nav {
 
 #showcase-photo::after {
 	position: absolute;
-	content: "Happy Coding!";
+	content: "Hpy Coding!";
 	font-family: 'Bungee';
 	font-size: 8vw;
 	color: white;
