@@ -7,6 +7,12 @@ img {
 	width: 100%;
 }
 
+/* PROJECT TO COME styling - greyed out */
+
+.coming-project {
+
+}
+
 /* HEADER */
 
 nav {
@@ -75,9 +81,9 @@ p {	word-break: break-all; }
 	}
 }
 
-.social-links:hover { text-decoration: none; }
+.social-links:hover { text-decoration: none;}
 
 .fb:hover { color:#3B5998; }
 .github:hover { color: #000; }
-.twitter:hover { color: #aaa; } /* #00acee */
-.googleplus:hover { color: #aaa; } /* #dd4b39 */
+.twitter:hover { color: #999; } /* #00acee */
+.googleplus:hover { color: #999; } /* #dd4b39 */
